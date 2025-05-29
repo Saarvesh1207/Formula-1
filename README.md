@@ -119,7 +119,7 @@ Sensors → Local ECUs → Transmission Line → Central ECU → RF Antenna → 
 
 - 5G Telemetry Research: Experimental use of 5G-like protocols for ultra-low-latency communication within F1 teams.
 
-          ![image](https://github.com/user-attachments/assets/2b4e373d-e67c-4c08-99ea-887a45127773)
+  ![image](https://github.com/user-attachments/assets/2b4e373d-e67c-4c08-99ea-887a45127773)
 
 
 
@@ -127,7 +127,7 @@ Sensors → Local ECUs → Transmission Line → Central ECU → RF Antenna → 
   **5. Summary of Application**
 
 
-   ![image](https://github.com/user-attachments/assets/d0b391fb-9f80-4f23-a7c8-d6cd6b79ab0b)
+  ![image](https://github.com/user-attachments/assets/d0b391fb-9f80-4f23-a7c8-d6cd6b79ab0b)
 
 
 
