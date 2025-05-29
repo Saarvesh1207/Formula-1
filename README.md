@@ -137,6 +137,9 @@ Sensors → Local ECUs → Transmission Line → Central ECU → RF Antenna → 
    concepts, is now at the core of decision-making in Formula 1. From calculating undercut strategies to real-time damage detection, transmission lines empower pit crews to guide their cars 
    toward victory.
 
+  ![image](https://github.com/user-attachments/assets/6a5c8452-de46-4215-a523-925578724e0c)
+
+
   **📚 References**
 
     StatusNeo – Telemetry in F1
